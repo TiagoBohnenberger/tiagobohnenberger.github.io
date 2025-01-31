@@ -20,7 +20,6 @@ Here are some of the projects I've worked on:
 
 - [Syonet CRM](https://syonet.com/pt-br/) - CRM for car dealership companies.
 - [Banco BV](https://www.bv.com.br/) - As a Java Back-end developer, I'm currently working on the PIX feature of the bank.
----
 - [Complete portfolio](https://github.com/TiagoBohnenberger?tab=repositories)
 
 
