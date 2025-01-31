@@ -9,17 +9,19 @@ Hello there! I'm **Tiago Bohnenberger**, a passionate **Software Developer**. I 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Java and a some JS
+- **Programming Languages**: Java and some JS
 - **Frameworks & Libraries**: Spring Ecosystem, Quarkus, JUnit, Mockito...
-- **Tools & Technologies**: Maven🪶, IntelliJ IDEA Community, DBeaver, Postmann...
+- **Tools & Technologies**: Maven🪶, IntelliJ IDEA Community, DBeaver, Postman...
 - **Other Skills**: Self-taught
 
 ## 📂 Projects
 
 Here are some of the projects I've worked on:
 
-- [Syonet CRM](https://syonet.com/pt-br/) - CRM for the car dealership companies.
+- [Syonet CRM](https://syonet.com/pt-br/) - CRM for car dealership companies.
 - [Banco BV](https://www.bv.com.br/) - As a Java Back-end developer, I'm currently working on the PIX feature of the bank.
+---
+- [Complete portfolio](https://github.com/TiagoBohnenberger?tab=repositories)
 
 
 ## 📊 GitHub Stats
